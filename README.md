@@ -48,6 +48,8 @@ namespace Chart_GettingStarted
 
 ![](https://github.com/SyncfusionExamples/How-to-apply-the-embedded-custom-font-in-Xamarin.Forms-Charts/blob/main/Applied-Embedded-Font-on-Axis-Labels.png)
 
+KB article - [How to apply the embedded custom font in Xamarin.Forms Charts](https://www.syncfusion.com/kb/12516/how-to-apply-the-embedded-custom-font-in-xamarin-forms-charts)
+
 ## See also
 
 [How to apply custom fonts in Xamarin.Forms Chart](https://www.syncfusion.com/kb/9388/how-to-apply-custom-fonts-in-xamarin-forms-chart)
