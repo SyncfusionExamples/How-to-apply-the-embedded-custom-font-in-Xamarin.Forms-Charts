@@ -55,7 +55,7 @@
     <PackageReference Include="Syncfusion.Xamarin.SfChart">
       <Version>*</Version>
     </PackageReference>
-    <PackageReference Include="Xamarin.Forms" Version="4.7.0.1351" />
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2662" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MainActivity.cs" />
